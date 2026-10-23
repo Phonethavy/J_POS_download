@@ -6,11 +6,11 @@ JPOS point of sale for Windows (offline edition)
 ## ⬇️ ດາວໂຫຼດ / Download
 
 👉 **[ດາວໂຫຼດເວີຊັນລ່າສຸດ / Download latest version](https://github.com/Phonethavy/J_POS_download/releases/latest)**
-
-
-**[ດາວໂຫຼດຄູ່ມືລ່າສຸດ / Download Manual latest version](https://drive.google.com/file/d/1o9g-tD_WbHIwrpW2KQCwYQpfb01_thea/view?usp=sharing).**
 ກົດໄຟລ໌ `JPOS-Setup-x.x.x.exe` ໃນໜ້າ Release ເພື່ອດາວໂຫຼດ.
 Click the `JPOS-Setup-x.x.x.exe` file on the release page.
+
+**[ດາວໂຫຼດຄູ່ມືລ່າສຸດ / Download Manual latest version](https://drive.google.com/file/d/1o9g-tD_WbHIwrpW2KQCwYQpfb01_thea/view?usp=sharing).**
+
 
 ## ຕິດຕັ້ງ / Install
 
